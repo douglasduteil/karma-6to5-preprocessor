@@ -26,6 +26,6 @@
   },
   "license": "ISC",
   "peerDependencies": {
-    "6to5": "^2"
+    "6to5": "^1"
   }
 }
